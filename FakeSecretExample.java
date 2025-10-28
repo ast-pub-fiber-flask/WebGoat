@@ -20,5 +20,7 @@ public class FakeSecretExample {
         String azureKey = "AZURE_FAKE_KEY_1234567890ABCDEF";
 
         System.out.println("Secrets (fake) have been defined.");
+        //Recommit
     }
 }
+
